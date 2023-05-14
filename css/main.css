@@ -141,9 +141,10 @@ footer a:not(.nav-link) {
     padding-top: 5rem;
     page-break-before: always; } }
 
-/* google thinks the page is too small for mobile, mby this fixes it */
+/* google thinks the page is too small for mobile, mby this fixes it 
 @media (max-width: 767px) {
   body, html {
   font-size: 150%;
   }
 }
+*/
