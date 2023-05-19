@@ -139,4 +139,22 @@ footer a:not(.nav-link) {
     padding: 0 !important; }
   .page-break {
     padding-top: 5rem;
-    page-break-before: always; } }
+    page-break-before: always; 
+  }
+}
+
+.imgcontainer {
+  position: relative;
+  text-align: center;
+  height: 500;
+}
+.me2 {
+  position: absolute;
+  margin: 0 auto;
+  top: 3px;
+  left: 54%;
+  
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #ffffff;
+  font-size: 79%;
+}
